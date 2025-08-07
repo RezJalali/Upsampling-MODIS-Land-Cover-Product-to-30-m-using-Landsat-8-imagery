@@ -37,7 +37,7 @@ The model's performance is evaluated using a confusion matrix on the held-out va
 This script is designed to be run directly in the Google Earth Engine Code Editor.
 Copy and paste the entire script into a new file in the GEE Code Editor. add your region of interest as instructed below.
 
-*Define Geometry: You must define your own Area of Interest (AOI) by creating a geometry variable (named as "geometry"). You can either use the drawing tools in the Code Editor to create a polygon or import your own shp file in the assets.*
+**Define Geometry: You must define your own Area of Interest (AOI) by creating a geometry variable (named as "geometry"). You can either use the drawing tools in the Code Editor to create a polygon or import your own shp file in the assets.**
 
 Run Script: Click the "Run" button. The script will execute all the processing steps and add the final 30m LULC map to the map panel, titled L8_LULC_Upsampled_Seasonal. The validation accuracy will be printed in the "Console" tab.
 
