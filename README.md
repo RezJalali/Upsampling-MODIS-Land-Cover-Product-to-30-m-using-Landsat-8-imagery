@@ -5,6 +5,8 @@ This Google Earth Engine project demonstrates an advanced technique for downscal
 The core of this project is the use of seasonal composites to capture vegetation phenology, providing the machine learning model with rich, time-series information to drastically improve classification accuracy over methods that use a single annual composite. 
 
 *Note: To run the code seamlessly, check out the HOW TO USE section.*
+<img width="1918" height="741" alt="modis2" src="https://github.com/user-attachments/assets/b78b6a6b-1571-4911-ab6d-a2f89bf8cb12" />
+<img width="1917" height="747" alt="landsat2" src="https://github.com/user-attachments/assets/7052662a-fdcd-4c5b-aa9b-3436532c9916" />
 
 # Key Features
 - Image Downscaling: Upsamples the 500m MODIS LULC product to a detailed 30m resolution, making it suitable for regional-scale analysis.
